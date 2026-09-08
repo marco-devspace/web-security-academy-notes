@@ -10,7 +10,7 @@ Ziel ist es, die wichtigsten Konzepte, Angriffstechniken und Gegenmaßnahmen kom
 - Authentication
 - Access Control
 - Path Traversal
-- OS Command Injection
+- Command Injection
 - File Upload Vulnerabilities
 - Cross-Site Scripting (XSS)
 - Server-Side Request Forgery (SSRF)
