@@ -4,6 +4,9 @@ Meine persönlichen Notizen und Zusammenfassungen zur **PortSwigger Web Security
 
 Ziel ist es, die wichtigsten Konzepte, Angriffstechniken und Gegenmaßnahmen kompakt, übersichtlich und praxisorientiert festzuhalten.
 
+> **Work in Progress**  
+> Dieses Projekt befindet sich aktuell in aktiver Entwicklung. Die bestehende Funktionalität wird kontinuierlich erweitert.
+
 ## Themen
 
 - SQL Injection
